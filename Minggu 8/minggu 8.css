@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    }
+    
+    header {
+        padding: 10px;
+        background-color: rgb(39, 97, 222);
+        border: 1px solid rgb(0, 0, 0);
+        text-align: center;
+    }
+    
+    nav{
+        float: left;
+        width: 20%;
+        text-align: center;
+    }
+    
+    nav ul{
+        list-style-type: none;
+        text-align: center;
+        background-color:rgb(243, 114, 217);
+        border: 1px solid black;
+        display: block;
+        padding: 8px;
+        margin-top: 0px;
+    }
+    
+    article{
+        float: left;
+        width: 80%;
+        background-color: rgb(104, 239, 97);
+        border: 1px solid black;
+        padding: 0 20px;
+    }
+    
+    details{
+        color: gray;        
+        font-size: 20px;
+
+    }
+
+    summary{
+        font-size: 40px;
+    }
+    
+    footer{
+        text-align: center;
+    }
+    
+    span{
+        font-size: 10px;
+    }
+    
+    

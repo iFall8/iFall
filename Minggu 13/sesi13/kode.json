@@ -1,0 +1,20 @@
+{
+  "login": "belajarkode",
+  "id": 12345678,
+  "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MjU0NjAy",
+  "avatar_url": "http://192.168.10.253/~a112214356/minggu13/code.png",
+  "gravatar_id": "",
+  "url": "http://192.168.10.253/~a112214356/minggu13/kode.json",
+  "type": "Study",
+  "site_admin": false,
+  "name": "Gatot Ifal",
+  "company": null,
+  "location": "Semarang, Indonesia",
+  "email": "111202214356@mhs.dinus.ac.id",
+  "hireable": null,
+  "bio": null,
+  "followers": 0,
+  "following": 0,
+  "created_at": "2020-12-23T07:00:00Z",
+  "updated_at": "2020-12-23T07:00:00Z"
+}
